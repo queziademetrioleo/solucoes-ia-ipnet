@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/512px-Google_Cloud_logo.svg.png" width="100" />
-  <h1>Soluções de IA IPNET by Vivo</h1>
-  <h3>Portfólio Estratégico & Arquitetura de Serviços Corporativos</h3>
+  <h1>Engenharia de Soluções IA IPNET</h1>
+  <h3>Padronização Operacional & Portfólio de Serviços</h3>
   <p>
     <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge&logo=googlecloud" alt="Status" />
     <img src="https://img.shields.io/badge/Ecosystem-Google_Cloud-blue?style=for-the-badge&logo=googlecloud" alt="GCP" />
-    <img src="https://img.shields.io/badge/Focus-Enterprise_AI-purple?style=for-the-badge&logo=artificial-intelligence" alt="AI" />
+    <img src="https://img.shields.io/badge/Architecture-Scalable-purple?style=for-the-badge&logo=archlinux" alt="AI" />
   </p>
 </div>
 
@@ -13,58 +13,69 @@
 
 <br/>
 
-> **Boas-vindas ao repositório central de Inteligência Artificial da IPNET.** 
-> Aqui consolidamos a engenharia de ponta, a visão consultiva e a modelagem de negócios para líderes e arquitetos. Projetado para transformar a promessa da tecnologia em **resultados de negócios irrefutáveis**.
+> **Boas-vindas ao repositório base de Inteligência Artificial da IPNET.** 
+> O propósito desta base é fundacional e definitivo: **sair de definições conceituais ou estéticas para modelos altamente operacionais e replicáveis**. Aqui, nossa engenharia padroniza não apenas o que construímos, mas exatamente como construímos e entregamos, garantindo qualidade e previsibilidade em qualquer escala.
 
 <br/>
 
-## 🏗️ Padrão Arquitetural da Documentação
+## 🏗️ Metodologia e Ciclo de Estruturação
 
-A excelência em vendas e entregas começa na padronização. Para blindar a jornada do cliente, desde o primeiro *pitch* executivo até o *deploy* em nuvem, nossos 16 serviços são divididos rigorosamente em **4 camadas documentais**:
+A garantia da excelência na entrega começa no isolamento e definição de cada bloco funcional do nosso portfólio. As documentações atreladas aos serviços respeitam a organização baseada em grandes fases operacionais:
 
-| Arquivo | Público-Alvo | Core Business | O que contém? |
-| :--- | :--- | :--- | :--- |
-| 📄 **`fase1.md`** | Executivos & C-Level | **Decisão Estratégica** | A "Dor do Mercado", Ticket Médio, ROI esperado e o Pitch de "O que vendemos vs O que não vendemos". |
-| 🛠️ **`fase2.md`** | Arquitetos & PMO | **Modelagem Técnica** | Escopo fechado, Stack GCP, SLAs, limitações de segurança e os Milestones da jornada de entrega. |
-| 💻 **`lp.md`** | Marketing & Comercial | **Landing Page** | Texto persuasivo (*Copy*), contexto comercial e apresentação visual dos benefícios diretos. |
-| ⚙️ **`lp.js`** | Devs & Produto | **Contrato de Dados** | Componente exportável (JSON/JS) pronto para alimentar o frontend, com escopo de horas, fases e ícones. |
+### 🔹 Fase 1: Refinar e Estruturar os Serviços
+*Objetivo: Migração de abordagens conceituais para execuções 100% operacionais.*
+
+* **Abertura do Portfólio:** Dissecamos todos os itens de IA ofertados, mapeando exigências passivas e ativas.
+* **Descrição Rígida do Escopo:** Evidenciando o que a solução abrange arquiteturalmente, e, em paralelo, definindo limites técnicos exatos (evitando o "Scope Creep").
+* **Planejamento Formalizado:** Transparência imediata sobre o que será consumido da infraestrutura e o que será efetivamente codificado e repassado.
+* **Definição Ouro do Padrão de Entrega:** Esclarecimento do formato base, profundidade do serviço, pipelines que o compõem e os artefatos técnicos de saída finais.
+
+<br/>
+
+### 🔹 Fase 2: Criar Padrão de Entregáveis
+*Objetivo: Padronização técnica restrita combinada a Qualidade Previsível.*
+
+* **Anexação Obrigatória:** Definição documentada e padronizada daquilo que sempre acompanha o provisionamento de cada modelo (Tabelas técnicas, permissões mínimas, logs).
+* **Modelos Nativos de Entrega (Templates):** Utilização massiva de módulos padronizados. Uso rotineiro de *Multiplos "Starter Packs"*, templates de IaC e Checklists Técnicos unificados por esteira.
+* **Consistência de Engenharia:** Não importa qual time orquestre, asseguramos o balizador idêntico do cliente A ao Z garantindo total escalonamento mútuo através de regras claras para Cloud Run, Vertex AI e demais.
 
 <br/>
 
 ---
 
-## � Catálogo de Serviços
-Nossa esteira foi desenhada simulando os passos da maturidade em dados de uma corporação. Desde o "Arrumar a Casa" até "Robôs Autônomos de Voz e Visão".
+## 🚀 Catálogo de Serviços e Engenharia de IA
+
+Organizamos nossos blocos baseando-os da maturidade transacional primária aos ambientes independentes auto-orquestrados.
 
 ### 🏛️ 1. Fundação e Governança
-*Onde construímos o alicerce sólido de nuvem para a IA operar sem riscos.*
+*Preparação da infraestrutura, arquitetura de dados segura e definição legal Cloud.*
 
-* **[01] Diagnóstico de Maturidade e Oportunidades em IA:** Assessment estratégico e mapeamento de Quick Wins.
-* **[02] Workshop de Descoberta de IA Generativa:** Destravando o C-Level para a economia algorítmica.
-* **[03] Squad de IA Dedicada as-a-Service:** Força motriz de engenharia acoplada ao seu produto.
-* **[04] FinOps e Otimização de Custos de IA:** Racionalização bruta de infraestrutura e GPUs na nuvem.
-* **[05] Modernização de Dados para IA:** Reestruturação de Data Lakes para virarem bases vivas preditivas.
+* **[01] Diagnóstico de Maturidade e Oportunidades em IA:** Assessment técnico, inventariado de sistemas legados.
+* **[02] Workshop de Descoberta de IA Generativa:** Nivelamento sobre ecossistemas Vertex AI.
+* **[03] Squad de IA Dedicada as-a-Service:** Força motriz contínua de engenharia (Devs/Archs).
+* **[04] FinOps e Otimização de Custos de IA:** Racionalização de GPU, Storage e Cloud Billing.
+* **[05] Modernização de Dados para IA:** Reestruturação e conversão de Data Lakes legados em bases prontas para predição.
 
 ### 🧠 2. Modelos Analíticos e Preditivos
-*Matemática avançada extraindo o lucro escondido em bases históricas.*
+*Matemática avançada extraindo o balanço escondido em dados massivos.*
 
-* **[06] Sistemas de Recomendação Personalizados:** Algoritmos orquestrando cross-sell automático.
-* **[07] Automação de CX com Conversational AI:** Bots lógicos hiper-respondedores para Chat.
-* **[08] Programa de Ética e Governança em IA:** Criptografia, Compliance Legal e restrições de RBAC.
+* **[06] Sistemas de Recomendação Personalizados:** Automação de instâncias indicando *Nearest Neighbors* (k-NN).
+* **[07] Automação de CX com Conversational AI:** Bots lógicos base de chat via processamento NLP padrão.
+* **[08] Programa de Ética e Governança em IA:** Arquitetura de permissões RBAC e proteção ativa contra violações de DLP.
 
 ### ⚡ 3. Engenharia Especializada e IA de Fronteira
-*Sistemas cibernéticos pesados, agentes que enxergam, ouvem e orquestram a empresa sozinhos.*
+*Sistemas cibernéticos altamente complexos lidando com latência contínua nas operações e multi-agentes.*
 
-| ID | Solução Tecnológica | Impacto no Negócio | Stack Principal |
+| ID | Solução Tecnológica | Impacto Base Operacional | Stack Principal |
 | :---: | :--- | :--- | :--- |
-| **09** | **Estruturação de MLOps** | Elimina a "Morte em PoC" das IAs com pipelines maduros CI/CD. | *Vertex AI Pipelines* |
-| **10** | **Dev de Modelos LLM e RAG** | O Fim da Alucinação. LLM treinado puramente nos dados da empresa. | *Vector Search* |
-| **11** | **Machine Learning Preditivo** | Prevê Churn e Ruptura de Estoque na latência da matemática viva. | *BigQuery ML* |
-| **12** | **Visão e Agentes Autônomos** | Câmeras detectando falhas no Edge enviando ordens ao ERP sozinhas. | *Computer Vision* |
-| **13** | **Integração via MCP (ADK)** | IA lendo Salesforce e Bancos SQL direto por um protocolo blindado. | *Model Context Prot.* |
-| **14** | **Detecção de Fraudes (ML)** | Shield financeiro em streaming derrubando fraudes no sub-segundo. | *Dataflow Stream* |
-| **15** | **Extração de Docs (IDP)** | Fim da digitação. Leitura inteligente de notas fiscais e laudos sujos. | *Document AI* |
-| **16** | **Voice AI (Agente de Voz)** | Ligações ultra-realistas com LLaMA conversando ativamente 24/7. | *LiveKit + Llama* |
+| **09** | **Estruturação de MLOps** | Pipeline CI/CD, monitoramento nativo, Treinos contínuos automatizados. | *Vertex AI Pipelines* |
+| **10** | **Dev de Modelos LLM e RAG** | Implementação puramente baseada em Vetores com zero dados públicos vadios. | *Vector Search* |
+| **11** | **Machine Learning Preditivo** | Séries temporais em tempo real baseades no ecossistema do SQL corporativo. | *BigQuery ML* |
+| **12** | **Visão e Agentes Autônomos** | Modelos (OpenCV/YOLO) detectando anomalias Edge injetando APIs ao ERP. | *Computer Vision* |
+| **13** | **Integração via MCP (ADK)** | IA lendo ferramentas nativas via protocolo assíncrono seguro e padronizado. | *Model Context Prot.* |
+| **14** | **Detecção de Fraudes (ML)** | Shield infraestruturado em streaming derrubando anomalias no sub-segundo. | *Dataflow Stream* |
+| **15** | **Extração de Docs (IDP)** | Leitura algorítmica de contexto processando notas e laudos extraindo puro JSON. | *Document AI* |
+| **16** | **Voice AI (Agentes de Voz)** | Redes neurais (Clonagem) e LLMs fluídos processando conexões Telefônicas SIP. | *LiveKit + Llama* |
 
 <br/>
 
@@ -72,13 +83,11 @@ Nossa esteira foi desenhada simulando os passos da maturidade em dados de uma co
   <h3>Como utilizar este repositório?</h3>
 </div>
 
-1. 🎯 **Comercial / Go-To-Market:** Extraiam o ouro da `fase1.md` antes de entrar na sala com o CFO do cliente.
-2. 📐 **Arquitetos de Solução:** Blinde o escopo da entrega lendo a `fase2.md` – saiba o que vendemos e, principalmente, o que **não** vendemos.
-3. 💻 **Frontend / Engenharia Web:** Importe diretamente as consts dos arquivos `lp.js` para renderizar os painéis do site IPNET instantaneamente.
+Todos os times técnicos da IPNET — dos arquitetos primários aos engenheiros de confiabilidade (SRE) e desenvolvedores Backend/Frontend — deverão assumir esta documentação como **A Única Fonte da Verdade (Single Source of Truth)**. Utilize cada pasta listada para assimilar as arquiteturas e seguir estritamente o manual de entrega do serviço, assegurando que nada além do escopo perfeitamente alinhado na Fase 1 ou dos entregáveis moldados da Fase 2 seja adotado e repassado como padrão IPNET.
 
 ---
 
 <div align="center">
-  <i>Gerado estruturalmente sob os pilares e arquitetura sólida do Google Cloud Platform e IPNET.</i><br/>
-  <b>Inteligência Transacional de Ponta a Ponta.</b>
+  <i>Manutenção unificada sob a engenharia da IPNET Cloud.</i><br/>
+  <b>Desenvolvimento escalável de ponta a ponta.</b>
 </div>
